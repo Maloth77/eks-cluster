@@ -1,9 +1,9 @@
 # eks-cluster
 creation of eks cluster 
-----------------------------------------------------
+----------------------------------------------------------
 1. AWS cli install to run the AWS commands
 
---------------------------------------------------   
+-----------------------------------------------------------  
 3. AWS configure :
    To integrate with your aws account.
 
@@ -13,14 +13,21 @@ creation of eks cluster
 
 ------------------------------------------------------------ 
 5. intsall terraform 
-   to execute the terrform commands 
+   to execute the terrform commands
+   
 -------------------------------------------------------------
+# To execute this scripts 
 
+command : chmod +X <filename>
+or 
+bash <filename>
+
+--------------------------------------------------------------
 execute commands :
-------------------------------------------------------------------------------------
-terraform init
-terraform validate 
-terraform plan 
-terraform apply 
-terraform destroy
+--------------------------------------------------------------
+1.terraform init
+2.terraform validate 
+3.terraform plan 
+4.terraform apply 
+5.terraform destroy
   
