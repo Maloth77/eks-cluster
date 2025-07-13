@@ -4,7 +4,7 @@ creation of eks cluster
 1. AWS cli install to run the AWS commands
 
 -----------------------------------------------------------  
-3. AWS configure :
+2. AWS configure :
    To integrate with your aws account.
 
  -----------------------------------------------------------  
@@ -12,15 +12,15 @@ creation of eks cluster
    To run the kubectl which is k8's command
 
 ------------------------------------------------------------ 
-5. intsall terraform 
+4. intsall terraform 
    to execute the terrform commands
    
 -------------------------------------------------------------
-# To execute this scripts 
+**# To execute this scripts **
 
 command : chmod +X <filename>
-or 
-bash <filename>
+                or 
+         bash <filename>
 
 --------------------------------------------------------------
 execute commands :
