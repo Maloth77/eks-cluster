@@ -18,9 +18,9 @@ creation of eks cluster
 -------------------------------------------------------------
 **# To execute this scripts **
 
-command : chmod +X <filename>
+command : chmod +X filename
                 or 
-         bash <filename>
+         bash filename
 
 --------------------------------------------------------------
 execute commands :
